@@ -31,4 +31,4 @@ Zwar habe ich die Genehmigung für dieses Web-Crawler-Projekt erhalten, jedoch d
 
 ##### Vorschau
 ------------------------------
-! [Screenshot](https://github.com/anilo1992/all-verb-conjugation-to-excel/blob/main/sample.png)
+![Screenshot](https://github.com/anilo1992/all-verb-conjugation-to-excel/blob/main/sample.png)
