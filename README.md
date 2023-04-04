@@ -4,7 +4,7 @@ Das Skript durchgeht jedes Verb einer lokalen Liste mit 2700 Verben, generiert f
 
 Möglichwerse müssen einige Bibliotheken nachträglich installiert wird, bevor es ausgeführt werden kann. BeautifulSoup, xlsxwriter und requests sind meistens nicht vorab installiert.
 
-Zwar habe ich die Genehmigung für dieses Web-Crawler-Projekt erhalten, jedoch darf ich keinerlei Informationen über die Webseite und dessen Urheber herausgeben. Dies schließt URL, Elemente und Attribute der HTML und sonstige Daten des Urhebers. Ebenfalls darf ich das Endprodukt nicht hochladen, sondern nur ein Sample.
+Zwar habe ich die Genehmigung für dieses Web-Crawler-Projekt erhalten, jedoch darf ich keinerlei Informationen über die Webseite und den Urheber herausgeben. Dies schließt URL, Elemente und Attribute der HTML und sonstige Daten des Urhebers ein. Ebenfalls darf ich das Endprodukt nicht hochladen, sondern nur ein Sample.
 
 ##### Zeitformen
 ------------------------------
