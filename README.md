@@ -29,3 +29,4 @@ Möglichwerse müssen einige Bibliotheken nachträglich installiert wird, bevor 
 
 ##### Vorschau
 ------------------------------
+https://github.com/anilo1992/all-verb-conjugation-to-excel/blob/main/sample.png
