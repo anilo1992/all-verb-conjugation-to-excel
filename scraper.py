@@ -12,9 +12,6 @@ f_verben = open('Python/Verben/alle-verben.txt', 'r', encoding='utf-8')
 verben = f_verben.readlines()
 
 urls = [f"https://{url}/{verb}[:-1]" for verb in verben] # Beispiel-URL
-random.shuffle(urls)
-
-print(urls)
 
 for url_count, url in enumerate(urls): # für jedes Verb läuft ein Zähler, damit jede Konjugation eines Verb in einer neuen Zeile geschrieben wird
     print(f'Verb {url_count+1}/{len(htmls)}')
