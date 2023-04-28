@@ -6,6 +6,8 @@ Möglichwerse müssen einige Bibliotheken nachträglich installiert wird, bevor 
 
 Zwar habe ich die Genehmigung für dieses Web-Crawler-Projekt erhalten, jedoch darf ich keinerlei Informationen über die Webseite und den Urheber herausgeben. Dies schließt URL, Elemente und Attribute der HTML und sonstige Daten des Urhebers ein. Ebenfalls darf ich das Endprodukt nicht hochladen, sondern nur ein Sample.
 
+Nützlich fand ich das Skript jetzt nicht, aber konnte wichtige Skills erlangen, wenn ich zukünftig mehrere Webseiten scrapen muss, die die selbe Struktur haben. In dem Beispiel hätte ich ein Zeitersparnis von 360 Stunden, wenn ich 94 Konjugationen für jedes Verb manuell in die Excel-Tabelle eingetragen hätte.
+
 ##### Zeitformen
 ------------------------------
 - Indikativ Präsens
